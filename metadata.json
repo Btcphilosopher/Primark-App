@@ -1,0 +1,6 @@
+{
+  "name": "Primark App",
+  "description": "A simple, high-performance shopping and store experience app optimized for affordable fashion, click & collect, and store mode helper utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
